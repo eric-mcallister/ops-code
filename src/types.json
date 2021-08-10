@@ -1,0 +1,514 @@
+[
+    {
+        "saviors": "FiNi",
+        "demon": "Te",
+        "animals": "SCBP",
+        "xxType": "IXXP",
+        "need": "Decider",
+        "number": "1"
+    },
+    {
+        "saviors": "FiNi",
+        "demon": "Te",
+        "animals": "SCPB",
+        "xxType": "IXXP",
+        "need": "Decider",
+        "number": "2"
+    },
+    {
+        "saviors": "FiNi",
+        "demon": "Te",
+        "animals": "SBCP",
+        "need": "Decider",
+        "xxType": "IXXP",
+        "number": "3"
+    },
+    {
+        "saviors": "FiNi",
+        "demon": "Te",
+        "animals": "SBPC",
+        "need": "Decider",
+        "xxType": "IXXP",
+        "number": "4"
+    },
+    {
+        "saviors": "FiNe",
+        "demon": "Te",
+        "animals": "CSBP",
+        "need": "Decider",
+        "xxType": "IXXP",
+        "number": "5"
+    },
+    {
+        "saviors": "FiNe",
+        "demon": "Te",
+        "animals": "CSPB",
+        "need": "Decider",
+        "xxType": "IXXP",
+        "number": "6"
+    },
+    {
+        "saviors": "FiNe",
+        "demon": "Te",
+        "animals": "CPSB",
+        "need": "Decider",
+        "xxType": "IXXP",
+        "number": "7"
+    },
+    {
+        "saviors": "FiNe",
+        "demon": "Te",
+        "animals": "CPBS",
+        "need": "Decider",
+        "xxType": "IXXP",
+        "number": "8"
+    },
+    {
+        "saviors": "NiFe",
+        "demon": "Se",
+        "animals": "BSCP",
+        "need": "Observer",
+        "xxType": "IXXJ",
+        "number": "9"
+    },
+    {
+        "saviors": "NiFe",
+        "demon": "Se",
+        "animals": "BSPC",
+        "need": "Observer",
+        "xxType": "IXXJ",
+        "number": "10"
+    },
+    {
+        "saviors": "NiFe",
+        "demon": "Se",
+        "animals": "BPSC",
+        "need": "Observer",
+        "xxType": "IXXJ",
+        "number": "11"
+    },
+    {
+        "saviors": "NiFe",
+        "demon": "Se",
+        "animals": "BPCS",
+        "need": "Observer",
+        "xxType": "IXXJ",
+        "number": "12"
+    },
+    {
+        "saviors": "FeNe",
+        "demon": "Ti",
+        "animals": "PCSB",
+        "need": "Decider",
+        "xxType": "EXXJ",
+        "number": "13"
+    },
+    {
+        "saviors": "FeNe",
+        "demon": "Ti",
+        "animals": "PCBS",
+        "need": "Decider",
+        "xxType": "EXXJ",
+        "number": "14"
+    },
+    {
+        "saviors": "FeNe",
+        "demon": "Ti",
+        "animals": "PBSC",
+        "need": "Decider",
+        "xxType": "EXXJ",
+        "number": "15"
+    },
+    {
+        "saviors": "FeNe",
+        "demon": "Ti",
+        "animals": "PBCS",
+        "need": "Decider",
+        "xxType": "EXXJ",
+        "number": "16"
+    },
+    {
+        "saviors": "FiSi",
+        "demon": "Te",
+        "animals": "SCBP",
+        "need": "Decider",
+        "xxType": "IXXP",
+        "number": "17"
+    },
+    {
+        "saviors": "FiSi",
+        "demon": "Te",
+        "animals": "SCPB",
+        "need": "Decider",
+        "xxType": "IXXP",
+        "number": "18"
+    },
+    {
+        "saviors": "FiSi",
+        "demon": "Te",
+        "animals": "SBCP",
+        "need": "Decider",
+        "xxType": "IXXP",
+        "number": "19"
+    },
+    {
+        "saviors": "FiSi",
+        "demon": "Te",
+        "animals": "SBPC",
+        "need": "Decider",
+        "xxType": "IXXP",
+        "number": "20"
+    },
+    {
+        "saviors": "FiSe",
+        "demon": "Te",
+        "animals": "CSBP",
+        "need": "Decider",
+        "xxType": "IXXP",
+        "number": "21"
+    },
+    {
+        "saviors": "FiSe",
+        "demon": "Te",
+        "animals": "CSPB",
+        "need": "Decider",
+        "xxType": "IXXP",
+        "number": "22"
+    },
+    {
+        "saviors": "FiSe",
+        "demon": "Te",
+        "animals": "CPSB",
+        "need": "Decider",
+        "xxType": "IXXP",
+        "number": "23"
+    },
+    {
+        "saviors": "FiSe",
+        "demon": "Te",
+        "animals": "CPBS",
+        "need": "Decider",
+        "xxType": "IXXP",
+        "number": "24"
+    },
+    {
+        "saviors": "NiTe",
+        "demon": "Se",
+        "animals": "BSCP",
+        "need": "Observer",
+        "xxType": "IXXJ",
+        "number": "25"
+    },
+    {
+        "saviors": "NiTe",
+        "demon": "Se",
+        "animals": "BSPC",
+        "need": "Observer",
+        "xxType": "IXXJ",
+        "number": "26"
+    },
+    {
+        "saviors": "NiTe",
+        "demon": "Se",
+        "animals": "BPSC",
+        "need": "Observer",
+        "xxType": "IXXJ",
+        "number": "27"
+    },
+    {
+        "saviors": "NiTe",
+        "demon": "Se",
+        "animals": "BPCS",
+        "need": "Observer",
+        "xxType": "IXXJ",
+        "number": "28"
+    },
+    {
+        "saviors": "FeSe",
+        "demon": "Ti",
+        "animals": "PCSB",
+        "need": "Observer",
+        "xxType": "EXXJ",
+        "number": "29"
+    },
+    {
+        "saviors": "FeSe",
+        "demon": "Ti",
+        "animals": "PCBS",
+        "need": "Observer",
+        "xxType": "EXXJ",
+        "number": "30"
+    },
+    {
+        "saviors": "FeSe",
+        "demon": "Ti",
+        "animals": "PBSC",
+        "need": "Observer",
+        "xxType": "EXXJ",
+        "number": "31"
+    },
+    {
+        "saviors": "FeSe",
+        "demon": "Ti",
+        "animals": "PBCS",
+        "need": "Observer",
+        "xxType": "EXXJ",
+        "number": "32"
+    },    
+    {
+        "saviors": "NiFi",
+        "demon": "Te",
+        "animals": "SCBP",
+        "need": "Decider",
+        "xxType": "IXXP",
+        "number": "33"
+    },
+    {
+        "saviors": "NiFi",
+        "demon": "Te",
+        "animals": "SCPB",
+        "need": "Decider",
+        "xxType": "IXXP",
+        "number": "34"
+    },
+    {
+        "saviors": "NiFi",
+        "demon": "Te",
+        "animals": "SBCP",
+        "need": "Decider",
+        "xxType": "IXXP",
+        "number": "35"
+    },
+    {
+        "saviors": "NiFi",
+        "demon": "Te",
+        "animals": "SBPC",
+        "need": "Decider",
+        "xxType": "IXXP",
+        "number": "36"
+    },
+    {
+        "saviors": "TiNe",
+        "demon": "Fe",
+        "animals": "CSBP",
+        "need": "Decider",
+        "xxType": "IXXP",
+        "number": "37"
+    },
+    {
+        "saviors": "TiNe",
+        "demon": "Fe",
+        "animals": "CSPB",
+        "need": "Decider",
+        "xxType": "IXXP",
+        "number": "38"
+    },
+    {
+        "saviors": "TiNe",
+        "demon": "Fe",
+        "animals": "CPSB",
+        "need": "Decider",
+        "xxType": "IXXP",
+        "number": "39"
+    },
+    {
+        "saviors": "TiNe",
+        "demon": "Fe",
+        "animals": "CPBS",
+        "need": "Decider",
+        "xxType": "IXXP",
+        "number": "40"
+    },
+    {
+        "saviors": "SiFe",
+        "demon": "Ne",
+        "animals": "BSCP",
+        "need": "Observer",
+        "xxType": "IXXJ",
+        "number": "41"
+    },
+    {
+        "saviors": "SiFe",
+        "demon": "Ne",
+        "animals": "BSPC",
+        "need": "Observer",
+        "xxType": "IXXJ",
+        "number": "42"
+    },
+    {
+        "saviors": "SiFe",
+        "demon": "Ne",
+        "animals": "BPSC",
+        "need": "Observer",
+        "xxType": "IXXJ",
+        "number": "43"
+    },
+    {
+        "saviors": "SiFe",
+        "demon": "Ne",
+        "animals": "BPCS",
+        "need": "Observer",
+        "xxType": "IXXJ",
+        "number": "44"
+    },
+    {
+        "saviors": "NeFe",
+        "demon": "Si",
+        "animals": "PCSB",
+        "need": "Observer",
+        "xxType": "EXXJ",
+        "number": "45"
+    },
+    {
+        "saviors": "NeFe",
+        "demon": "Si",
+        "animals": "PCBS",
+        "need": "Observer",
+        "xxType": "EXXJ",
+        "number": "46"
+    },
+    {
+        "saviors": "NeFe",
+        "demon": "Si",
+        "animals": "PBSC",
+        "need": "Observer",
+        "xxType": "EXXJ",
+        "number": "47"
+    },
+    {
+        "saviors": "NeFe",
+        "demon": "Si",
+        "animals": "PBCS",
+        "need": "Observer",
+        "xxType": "EXXJ",
+        "number": "48"
+    },
+    {
+        "saviors": "NiTi",
+        "demon": "Se",
+        "animals": "SCBP",
+        "need": "Decider",
+        "xxType": "IXXP",
+        "number": "49"
+    },
+    {
+        "saviors": "NiTi",
+        "demon": "Se",
+        "animals": "SCPB",
+        "need": "Decider",
+        "xxType": "IXXP",
+        "number": "50"
+    },
+    {
+        "saviors": "NiTi",
+        "demon": "Se",
+        "animals": "SBCP",
+        "need": "Decider",
+        "xxType": "IXXP",
+        "number": "51"
+    },
+    {
+        "saviors": "NiTi",
+        "demon": "Se",
+        "animals": "SBPC",
+        "need": "Decider",
+        "xxType": "IXXP",
+        "number": "52"
+    },
+    {
+        "saviors": "TiSe",
+        "demon": "Fe",
+        "animals": "CSBP",
+        "need": "Decider",
+        "xxType": "IXXP",
+        "number": "53"
+    },
+    {
+        "saviors": "TiSe",
+        "demon": "Fe",
+        "animals": "CSPB",
+        "need": "Decider",
+        "xxType": "IXXP",
+        "number": "54"
+    },
+    {
+        "saviors": "TiSe",
+        "demon": "Fe",
+        "animals": "CPSB",
+        "need": "Decider",
+        "xxType": "IXXP",
+        "number": "55"
+    },
+    {
+        "saviors": "TiSe",
+        "demon": "Fe",
+        "animals": "CPBS",
+        "need": "Decider",
+        "xxType": "IXXP",
+        "number": "56"
+    },
+    {
+        "saviors": "SiTe",
+        "demon": "Ne",
+        "animals": "BSCP",
+        "need": "Observer",
+        "xxType": "IXXJ",
+        "number": "57"
+    },
+    {
+        "saviors": "SiTe",
+        "demon": "Ne",
+        "animals": "BSPC",
+        "need": "Observer",
+        "xxType": "IXXJ",
+        "number": "58"
+    },
+    {
+        "saviors": "SiTe",
+        "demon": "Ne",
+        "animals": "BPSC",
+        "need": "Observer",
+        "xxType": "IXXJ",
+        "number": "59"
+    },
+    {
+        "saviors": "SiTe",
+        "demon": "Ne",
+        "animals": "BPCS",
+        "need": "Observer",
+        "xxType": "IXXJ",
+        "number": "60"
+    },
+    {
+        "saviors": "NeTe",
+        "demon": "Si",
+        "animals": "PCSB",
+        "need": "Observer",
+        "xxType": "EXXJ",
+        "number": "61"
+    },
+    {
+        "saviors": "NeTe",
+        "demon": "Si",
+        "animals": "PCBS",
+        "need": "Observer",
+        "xxType": "EXXJ",
+        "number": "62"
+    },
+    {
+        "saviors": "NeTe",
+        "demon": "Si",
+        "animals": "PBSC",
+        "need": "Observer",
+        "xxType": "EXXJ",
+        "number": "63"
+    },
+    {
+        "saviors": "NeTe",
+        "demon": "Si",
+        "animals": "PBCS",
+        "xxType": "EXXJ",
+        "need": "Observer",
+        "number": "64"
+    }
+]

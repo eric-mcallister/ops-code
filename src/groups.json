@@ -1,0 +1,34 @@
+{
+    "1": {
+        "name": "Observer",
+        "alias": ["O", "DD"]
+    },
+    "2": {
+        "name": "Decider",
+        "alias": ["D", "OO"]
+    },
+    "3": {
+        "name": "Reporter Type",
+        "alias": "ST"
+    },
+    "4": {
+        "name": "Nerdy Type",
+        "alias": "NT"
+    },
+    "5": {
+        "name": "Hippie Type",
+        "alias": "NF"
+    },
+    "6": {
+        "name": "Popularity Type",
+        "alias": "SF"
+    },
+    "7": {
+        "name": "S > T",
+        "alias": "Self over Tribe"
+    },
+    "8": {
+        "name": "S < T",
+        "alias": "Tribe over Self"
+    }
+}
