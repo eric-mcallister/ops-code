@@ -1,5 +1,5 @@
 <template>
-    <div class="splash-screen">
+    <div class="splash-screen" style="margin-top: 50px;">
       <span class="title">Objective Personality System</span>
       <img class="pulse" :src="image" style="padding-top: 25px;"/>
       <router-link class="enter" :to="{ name: 'OpsTable' }" style="padding-top: 25px;">Enter OPS Web Tool</router-link>

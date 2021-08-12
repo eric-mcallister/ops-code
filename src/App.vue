@@ -1,24 +1,15 @@
 <template>
   <div id="app">
-    <ul class="navigation" v-if="$route.name !== 'Home'">
-      <li>
-        <router-link :to="{ name: 'About' }">About</router-link>
-      </li>
-      <li>
-        <router-link :to="{ name: 'OpsList' }">Type List</router-link>
-      </li>
-      <li>
-        <router-link :to="{ name: 'OpsTable' }">Table</router-link>
-      </li>
-    </ul>
-    <transition name="fade" mode="out-in">
-      <router-view style="height: 100%; overflow-y: auto;"></router-view>
-    </transition>
+    <Header></Header>
   </div>
 </template>
 <script>
+import Header from './components/Header.vue'
 export default {
-  name: 'App'
+  name: 'App',
+  components: {
+    Header,
+  }
 }
 </script>
 <style>
